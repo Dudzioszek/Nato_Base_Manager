@@ -1,0 +1,1 @@
+# Nato_Base_Manager
