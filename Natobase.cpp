@@ -6,6 +6,8 @@
 #include <vector>
 #include <string>
 #include <istream>
+#include <algorithm>
+
 
 
 using namespace std;
