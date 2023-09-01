@@ -1,7 +1,7 @@
 
 //Stanislaw Dutkiewicz 263509
-#ifndef OOPLABPROJECT_NATOBASE_H
-#define OOPLABPROJECT_NATOBASE_H
+#ifndef NATOBASE_H
+#define NATOBASE_H
 
 #include <string>
 #include <vector>
@@ -68,4 +68,4 @@ private:
 };
 
 
-#endif //OOPLABPROJECT_NATOBASE_H
+#endif 
